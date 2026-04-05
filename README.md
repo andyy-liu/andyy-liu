@@ -4,8 +4,6 @@
 
 - Product Manager Intern at **[Boosted.ai](https://boosted.ai)** — building agentic tools for investment professionals
 
----
-
 ## Projects
 
 **[GradeSpec](https://github.com/yourusername/gradespec)**
@@ -16,8 +14,6 @@ scraped and analyzed Billboard chart data to find patterns in audio features (te
 
 **[gmail-send](https://github.com/yourusername/gmail-send)**
 bulk personalized email drafts through your own Gmail — built it for club sponsor outreach when paid tools weren't worth it
-
----
 
 ## A bit more
 
