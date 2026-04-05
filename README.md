@@ -15,10 +15,4 @@ scraped and analyzed Billboard chart data to find patterns in audio features (te
 **[gmail-send](https://github.com/andyy-liu/gmail-send)**:
 bulk personalized email drafts through your own Gmail — built it for club sponsor outreach when paid tools weren't worth it
 
-## a bit more
-
-- activities: VP Education @ Ivey Product Society, formerly President @ [W5](https://w5uwo.ca) (Western Entrepreneurship Association)
-- into: NYT games, ultimate frisbee, consumer tech products
-- always down to chat about product, startups, or whatever you're working on
-
 links: [email](mailto:andyliu3411@gmail.com) · [linkedin](https://linkedin.com/in/aliu24) · [portfolio](https://andy-liu.notion.site/portfolio)
