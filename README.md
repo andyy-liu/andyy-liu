@@ -1,6 +1,6 @@
 # hi, i'm andy!
 
-CS & Business at Western University
+studying CS & Business at Western University
 
 currently: product manager intern at **[Boosted.ai](https://boosted.ai)** — building agentic tools for investment professionals
 
