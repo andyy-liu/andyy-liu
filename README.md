@@ -1,4 +1,4 @@
-# hi, i'm andy!
+## hey, i'm andy
 
 studying CS & Business at Western University
 
