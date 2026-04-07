@@ -7,7 +7,7 @@ incoming product manager intern at **[Boosted.ai](https://boosted.ai)** — buil
 ## projects
 
 **[GradeSpec](https://gradespec.ca)**:
-grade dashboard and calculator built for canadian university students — 700+ users, 5,000+ visitors,
+grade dashboard and calculator built for canadian university students — 700+ users, 5,000+ visitors
 
 **[Billboard Audio Trends](https://github.com/andyy-liu/billboard-audio-trends)**:
 scraped and analyzed billboard chart data to find patterns in audio features (tempo, energy, valence) across decades. turns out pop music is a lot more predictable than it sounds
