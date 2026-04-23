@@ -1,6 +1,6 @@
-## hey, i'm andy
+## Andy Liu
 
-studying CS & Business at Western University
+CS & Business at Western University
 
 incoming product manager intern at **[Boosted.ai](https://boosted.ai)** — building agentic tools for investment professionals
 
