@@ -1,6 +1,6 @@
 ## Hello!
 
-CS & Business at Western University
+Rising junior studying CS & Business at Western University
 
 Incoming Product Manager Intern at **[Boosted.ai](https://boosted.ai)** — building agentic tools for investment professionals
 
