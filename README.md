@@ -2,7 +2,7 @@
 
 I'm a rising junior studying CS & Business at Western University
 
-This summer, I'll be working at **[Boosted.ai](https://boosted.ai)** as a Product Manager Intern, building agentic tools for investment professionals
+This summer, I'm working at **[Boosted.ai](https://boosted.ai)** as a Product Manager Intern, building agentic tools for investment professionals
 
 ## Projects
 
